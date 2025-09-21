@@ -1,0 +1,8 @@
+Update portal name and improve date formatting for job listings
+
+Update the application name from "TechJobs Portal" to "JobHub Portal" across the client. Also, enhance the `formatDate` function in `job-card.tsx` to accept string inputs for dates, improving flexibility.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 123769fc-ec52-4c13-939b-b1aacd0a0c0d
+Replit-Commit-Checkpoint-Type: intermediate_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/d5686427-5c73-4a8f-a1fb-9e3b200e802a/123769fc-ec52-4c13-939b-b1aacd0a0c0d/zrzKhNz
